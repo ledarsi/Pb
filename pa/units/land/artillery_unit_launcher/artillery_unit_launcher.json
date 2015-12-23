@@ -8,12 +8,12 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 2000,
+  "build_metal_cost": 800,
   "command_caps": [
     "ORDER_Attack"
   ],
-  "description": "Boom Launcher - Builds and fires boom bots at nearby targets.",
-  "display_name": "Lobber",
+  "description": "Infantry Deployment Barracks - Builds and fires Dox at nearby targets. Stores up to 10 Dox.",
+  "display_name": "Garrison",
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/structure_small"
@@ -57,7 +57,7 @@
       "radius": 1.75
     }
   ],
-  "max_health": 1000,
+  "max_health": 8000,
   "mesh_bounds": [
     15,
     15,
@@ -93,13 +93,13 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 60,
           "shape": "capsule"
         },
         {
           "channel": "sight",
           "layer": "underwater",
-          "radius": 100,
+          "radius": 60,
           "shape": "capsule"
         }
       ]

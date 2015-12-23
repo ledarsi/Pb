@@ -28,8 +28,8 @@
     }
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
-  "build_metal_cost": 400,
-  "description": "Self Propelled AA Gun - Lightly armored, extremely high rate of fire hover vehicle.",
+  "build_metal_cost": 500,
+  "description": "Self Propelled AA Gun - Armored, extremely high rate of fire hover vehicle. Also highly effective against nearby ground units.",
   "display_name": "Vulcan",
   "events": {
     "build_complete": {
@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "max_health": 400,
+  "max_health": 700,
   "mesh_bounds": [
     4.93769,
     7.57193,
@@ -124,12 +124,12 @@
   },
   "navigation": {
     "acceleration": 10,
-    "brake": 15,
+    "brake": 20,
     "dodge_multiplier": 1,
     "dodge_radius": 15,
-    "move_speed": 18,
+    "move_speed": 17,
     "turn_in_place": true,
-    "turn_speed": 50,
+    "turn_speed": 80,
     "type": "hover",
     "wobble_factor": 0.1,
     "wobble_speed": 0.2
@@ -143,7 +143,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 70,
+          "radius": 80,
           "shape": "capsule"
         }
       ]

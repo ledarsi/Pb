@@ -14,7 +14,7 @@
     }
   },
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
-  "build_metal_cost": 1000,
+  "build_metal_cost": 1200,
   "description": "Suborbital Fighter- Stronger fighter. Attacks orbital targets. Can move between planets. Fires AoE missiles in volleys.",
   "display_name": "Phoenix",
   "events": {
@@ -43,7 +43,7 @@
   ],
   "gravwell_velocity_multiplier": 6.0,
   "guard_layer": "WL_Orbital",
-  "max_health": 650,
+  "max_health": 800,
   "mesh_bounds": [
     4.5,
     9.2,

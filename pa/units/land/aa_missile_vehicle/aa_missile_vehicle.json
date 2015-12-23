@@ -29,8 +29,8 @@
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "build_metal_cost": 800,
-  "description": "Mobile SAM - Powerful, long-range surface-to-air missiles. Limited missiles before a long reload.",
-  "display_name": "Chaparal",
+  "description": "Mobile SAM - Powerful, long-range surface-to-air missiles. Limited missiles before a long reload. Attacks air and orbital targets.",
+  "display_name": "Chaparral",
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/veh"
@@ -64,6 +64,7 @@
     "brake": 12,
     "move_speed": 16,
     "turn_speed": 80,
+	"group_preference": "back",
     "type": "land-small"
   },
   "nearby_target_tick_update_interval": 3,

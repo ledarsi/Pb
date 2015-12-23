@@ -71,7 +71,7 @@
       "type": "build"
     }
   ],
-  "max_health": 3000,
+  "max_health": 10000,
   "mesh_bounds": [
     20,
     30,

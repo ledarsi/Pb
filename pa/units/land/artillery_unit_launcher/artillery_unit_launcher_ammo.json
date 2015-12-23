@@ -16,8 +16,8 @@
   "model": {
     "filename": "/pa/units/air/unit_shell_small/unit_shell_small.papa"
   },
-  "spawn_unit_on_death": "/pa/units/land/bot_bomb/bot_bomb.json",
-  "splash_damage": 0,
+  "spawn_unit_on_death": "/pa/units/land/assault_bot/assault_bot.json",
+  "splash_damage": 15,
   "splash_damages_allies": false,
-  "splash_radius": 0
+  "splash_radius": 2
 }

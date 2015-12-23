@@ -29,8 +29,8 @@
     }
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
-  "build_metal_cost": 275,
-  "description": "Hover Anti-Air. Good speed; long range low damage light anti-air railgun.",
+  "build_metal_cost": 400,
+  "description": "Hover Anti-Air. Light, versatile, mobile, medium range low damage ion stream weapon. Attacks surface, air, and orbital targets. Lightly armored.",
   "display_name": "Thunderbolt",
   "events": {
     "build_complete": {
@@ -76,7 +76,7 @@
     }
   ],
   "guard_layer": "WL_Air",
-  "max_health": 325,
+  "max_health": 250,
   "mesh_bounds": [
     4,
     5.6,
@@ -90,11 +90,12 @@
     "filename": "/pa/units/land/hover_aa/Vaa22.papa"
   },
   "navigation": {
-    "acceleration": 35,
-    "brake": 35,
-    "move_speed": 16,
+    "acceleration": 16,
+    "brake": 32,
+    "move_speed": 19,
     "turn_in_place": false,
-    "turn_speed": 45,
+    "turn_speed": 60,
+	"group_preference": "back",
     "type": "hover"
   },
   "physics": {
@@ -107,7 +108,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 120,
+          "radius": 80,
           "shape": "capsule"
         }
       ]
@@ -120,7 +121,7 @@
     {
       "aim_bone": "turret00",
       "muzzle_bone": "muzzle00",
-      "spec_id": "/pa/units/land/hover_aa/hover_aa_tool_weapon.json"
+      "spec_id": "/pa/units/land/hover_aa/hover_aa_small_weapon.json"
     }
   ],
   "transportable": {
