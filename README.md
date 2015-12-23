@@ -1,5 +1,5 @@
 # Pb
-The Led Mod
+**The Led Mod**
 
 A complete overhaul for Planetary Annihilation, originally based on Stuart98's mod Galactic Annihilation.
 
@@ -21,13 +21,14 @@ Link to Complete Changelog:  **TODO**
 
 ----------
 
-GAMEPLAY NOTES
+**GAMEPLAY NOTES**
 
 This mod may be frustrating for players who start a match expecting gameplay similar to vanilla Planetary Annihilation.
 
 To help ensure that players know what to expect, here are a few suggestions:
 
-1) INTELLIGENCE IS KEY
+-----
+**1) INTELLIGENCE IS KEY**
 
 There is no surface radar. This means if you want to find out where the enemy is, you are going to have to send scouts.
 
@@ -39,8 +40,8 @@ Recon units should accompany any large army, and should usually scout ahead as w
 
 Note that not all recon units are unarmed or fragile, some are quite serviceable as combat units in their own right.
 
-
-2) COMBINED ARMS
+-----
+**2) COMBINED ARMS**
 
 Bots and vehicles behave very differently in this mod.
 
@@ -56,8 +57,8 @@ What this means is you should deploy a mixed force where several unit types cove
 For example, deploying a group of Dox in front of a couple tanks will provide vision and screen against an enemy closing to range with your tanks.
 And the tanks provide supporting fire, since the Dox may not be able to engage every type of enemy effectively on their own.
 
-
-3) FIRE SUPPORT
+-----
+**3) FIRE SUPPORT**
 
 Artillery and planes are extremely powerful in this mod; with several times more range and explosive power than in vanilla PA.
 However, because there is no surface radar, in order to use these weapons effectively you must have vision on the target.
@@ -68,8 +69,8 @@ But deploying too much artillery or air support potentially leaves you weak on t
 
 The right mix of scouts, troops, tanks, and several types of support options will depend on many variables, and will usually vary in different locations on the map.
 
-
-4) ANTI AIR
+-----
+**4) ANTI AIR**
 
 Planes have been substantially changed in terms of game mechanics. There are two broad categories of "planes" in this mod. 
 
@@ -92,8 +93,8 @@ Because of its speed and firepower, flying units can be a decisive strategic wea
 Deploying a few air units also forces the enemy to spend resources on AA, dividing their efforts further.
 Overinvestment in planes, however, will cause the enemy's AA to rack up an enormous profit in resources wasted on dead planes.
 
-
-5) NUKES
+-----
+**5) NUKES**
 
 The changes to nukes are likely to be a shock to players not expecting them.
 
