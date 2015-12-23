@@ -33,12 +33,13 @@ To help ensure that players know what to expect, here are a few suggestions:
 There is no surface radar. This means if you want to find out where the enemy is, you are going to have to send scouts.
 
 Most units have quite poor vision range, such as tanks having longer weapon range than they have sight range. 
-You will need to position other units in front of them to make most effective use their long-range weapons.
+You will need to position other units in front of them to make most effective use of their long-range weapons.
 
 Scouts are very important units, as they have better vision than most of your heavier combat forces.
 Recon units should accompany any large army, and should usually scout ahead as well.
-
 Note that not all recon units are unarmed or fragile, some are quite serviceable as combat units in their own right.
+
+Radar towers still exist. They provide a sizable area of vision, and still detect orbital units as radar blips.
 
 -----
 **2) COMBINED ARMS**
