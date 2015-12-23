@@ -1,0 +1,24 @@
+{
+  "base_spec": "/pa/ammo/base_missiles/base_missile_tactical.json",
+  "damage": 350,
+  "events": {
+    "collided": {
+	  "effect_scale": 1.5,
+      "audio_cue": "/SE/Weapons/structure/air_defense_flak_fire",
+      "effect_spec": "/pa/effects/specs/default_proj_flak_explosion.pfx"
+    },
+	"died": {
+		"effect_scale": 1.0,
+		"audio_cue": "/SE/Impacts/missile_tactical",
+		"effect_spec": "/pa/effects/specs/default_proj_area_explosion.pfx"
+	}
+  },
+  "full_damage_splash_radius": 2,
+  "initial_velocity": 40.0,
+  "lifetime": 6.0,
+  "max_velocity": 100.0,
+  "splash_damage": 150,
+  "splash_damages_allies": true,
+  "splash_radius": 25,
+  "turn_rate": 500.0
+}

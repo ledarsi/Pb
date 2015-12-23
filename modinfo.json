@@ -1,0 +1,17 @@
+{
+  "author": "ledarsi",
+  "build": "89755",
+  "category": [
+    "Units",
+    "Balance"
+  ],
+  "context": "server",
+  "display_name": "Pb - The Led Mod",
+  "description": "Modified Galactic Annihilation - Changed gameplay & unit roles",
+  "enabled": true,
+  "identifier": "Pb",
+  "date": "2015/12/19",
+  "signature": "not yet implemented",
+  "priority": 100,
+  "version": "0.2"
+}
